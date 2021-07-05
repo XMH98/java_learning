@@ -1,2 +1,2 @@
 # Example
-java_learning_programme
+一些学习Java过程中的小练习
