@@ -5,7 +5,7 @@ package LeetCode;
  * Date: 2021-10-18 21:04
  * Description: <14. 最长公共前缀>
  */
-public class Demo2 {
+public class Demo14 {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
